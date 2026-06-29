@@ -1,22 +1,14 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yattastatic&label=͙͘͡★&color=FFCE61&style=plastic" alt="Profile Views"/>
+<h1 align="center">── ⋆⋅𖤓⋅⋆ ──</h2>
+<p align="center">  $\color{#FFEE70}{\text{͙͘͡  HI there👋, the shitty dividers  will b replaced by yatta themed dividers soon... 👋}}$</p>
+<p align="center">  $\color{#FFEE70}{\text{͙͘͡  cool yatta gifs comin soon.. if i can find HELP}}$</p>
 
-<p align="center">$\color{#FFEFE5}{\text{͙͘͡★THIS IS STILL A WIP! READMD ASSISTED BY RAZORBABYY ON GIT}}$</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yattastatic&label=͙͘͡★&color=FFCE61&style=plastic" alt="Profile Views"/>
+
+<p align="center">$\color{#FFEE70}{\text{͙͘͡★THIS IS STILL A WIP! READMD ASSISTED BY RAZORBABYY ON GIT}}$</p>
 
 <p align="center"> <img width="736" height="736" alt="image" src="https://github.com/user-attachments/assets/9c424022-4ed5-47ae-a997-5792c2fa6da5" />
 
 
-<!--
-**yattastatic/yattastatic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">── ⋆⋅𖤓⋅⋆ ──</h2>
